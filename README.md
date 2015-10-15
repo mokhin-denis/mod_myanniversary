@@ -11,10 +11,9 @@ Easy to use and easy to configure.
 ![tr](http://my-j.ru/media/mod_languages/images/tr.gif) Turkish (tr-TR) by Ahmet
 
 ## Usage
-
 1. Download latest version of module.
 2. Make base settings of module, using Extensions - Module Manager.
-3. Prepare one article per anniversary. Important! Change the creation date of article. For example, if you writing about your birthday and you was born in 12/03/1985 - point that date as a creation date.
+3. Prepare one article per anniversary. **Important!** Change the creation date of article. For example, if you writing about your birthday and you was born in 12/03/1985 - point that date as a creation date.
 4. Put all need articles specified category(s). Remember IDs of category(s).
 5. In the settings of the module point remembered IDs.
 6. Publish module.
