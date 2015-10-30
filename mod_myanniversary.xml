@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension type="module" version="2.5" client="site" method="upgrade">
 	<name>mod_myanniversary</name>
-	<author>Denis E Mokhin</author>
-	<authorUrl>http://my-j.ru</authorUrl>
+	<author>Denis Mokhin</author>
+	<authorUrl>http://mokh.in</authorUrl>
 	<creationDate>November 2012</creationDate>
-	<copyright>(C) 2012-2014 my-j.ru - All rights reserved.</copyright>
+	<copyright>(C) 2012-2015 Denis Mokhin - All rights reserved.</copyright>
 	<license>GNU GPL, see http://www.gnu.org/licenses/gpl-2.0.html</license>
-	<authorEmail>denis@my-j.ru</authorEmail>
-	<version>0.1.2</version>	
+	<authorEmail>denis@mokh.in</authorEmail>
+	<version>0.1.3</version>	
 	<description>MOD_MYANNIVERSARY_DESC</description>
 	
 	<files>
 		<filename module="mod_myanniversary">mod_myanniversary.php</filename>
 		<filename>index.html</filename>
+		<filename>README.md</filename>
 		<filename>helper.php</filename>
 		<folder>tmpl</folder>         
 	</files>	
@@ -77,6 +78,6 @@
 		</fields>
 	</config>
 	<updateservers>
-		<server type="extension" name="MyAnniversary Updates">http://downloads.my-j.ru/myanniversary.xml</server>
+		<server type="extension" name="MyAnniversary Updates">http://update.mokh.in/myanniversary.xml</server>
 	</updateservers>
 </extension>	

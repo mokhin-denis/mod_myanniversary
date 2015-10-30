@@ -4,11 +4,13 @@ MyAnniversary will show you anniversaries if a current day. All you need to do -
 Easy to use and easy to configure.
 
 ## Supported languages
-![en](http://my-j.ru/media/mod_languages/images/en.gif) English (en-GB) by Denis E Mokhin
+![en](http://mok.in/media/mod_languages/images/en.gif) English (en-GB) by Denis E Mokhin
 
-![ru](http://my-j.ru/media/mod_languages/images/ru.gif) Russian (ru-RU) by Denis E Mokhin
+![ru](http://mok.in/media/mod_languages/images/ru.gif) Russian (ru-RU) by Denis E Mokhin
 
-![tr](http://my-j.ru/media/mod_languages/images/tr.gif) Turkish (tr-TR) by Ahmet
+![tr](http://mok.in/media/mod_languages/images/tr.gif) Turkish (tr-TR) by Ahmet
+
+You can improve current translation or add new languages. Please visit [transifex.com](https://www.transifex.com/mokhin/myanniversary/)
 
 ## Usage
 1. Download latest version of module.
@@ -17,3 +19,6 @@ Easy to use and easy to configure.
 4. Put all need articles specified category(s). Remember IDs of category(s).
 5. In the settings of the module point remembered IDs.
 6. Publish module.
+
+## Vote
+If you found this module useful, please visit my page on [JED](http://extensions.joomla.org/extensions/extension/calendars-a-events/events/myanniversary) and post a reply. Thank you!
