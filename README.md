@@ -4,11 +4,11 @@ MyAnniversary will show you anniversaries if a current day. All you need to do -
 Easy to use and easy to configure.
 
 ## Supported languages
-![en](http://mok.in/media/mod_languages/images/en.gif) English (en-GB) by Denis E Mokhin
+![en](http://mokh.in/media/mod_languages/images/en.gif) English (en-GB) by Denis E Mokhin
 
-![ru](http://mok.in/media/mod_languages/images/ru.gif) Russian (ru-RU) by Denis E Mokhin
+![ru](http://mokh.in/media/mod_languages/images/ru.gif) Russian (ru-RU) by Denis E Mokhin
 
-![tr](http://mok.in/media/mod_languages/images/tr.gif) Turkish (tr-TR) by Ahmet
+![tr](http://mokh.in/media/mod_languages/images/tr.gif) Turkish (tr-TR) by Ahmet
 
 You can improve current translation or add new languages. Please visit [transifex.com](https://www.transifex.com/mokhin/myanniversary/)
 
