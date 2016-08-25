@@ -6,7 +6,7 @@
 * Copyright (C) 2012-2016 mokhin-tech.ru. All rights reserved. 
 *
 * Author is:
-* Denis E Mokhin < denis@mokhin-tech.ru >
+* Denis Mokhin < denis@mokhin-tech.ru >
 * http://mokhin-tech.ru
 *
 * @license GNU GPL, see http://www.gnu.org/licenses/gpl-2.0.html
@@ -27,7 +27,7 @@
 	defined('_JEXEC') or die('Restricted access');		
 	
 	// Include the syndicate functions only once
-	require_once dirname(__FILE__).'/helper.php';
+	require_once dirname(__FILE__).DIRECTORY_SEPARATOR.'helper.php';
 	
 	$list = modMyAnniversaryHelper::getList($params);
 	require(JModuleHelper::getLayoutPath('mod_myanniversary'));

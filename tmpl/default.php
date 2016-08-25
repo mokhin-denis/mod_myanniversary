@@ -6,7 +6,7 @@
 * Copyright (C) 2012-2016 mokhin-tech.ru. All rights reserved. 
 *
 * Author is:
-* Denis E Mokhin < denis@mokhin-tech.ru >
+* Denis Mokhin < denis@mokhin-tech.ru >
 * http://mokhin-tech.ru
 *
 * @license GNU GPL, see http://www.gnu.org/licenses/gpl-2.0.html
@@ -25,6 +25,7 @@
  
 // no direct access
 defined('_JEXEC') or die('Restricted access'); ?>
+
 <?php if(empty($list)) {
 	echo JText::_("MOD_MYANNIVERSARY_NOANNIVERSARY");
 	} ?>

@@ -6,7 +6,7 @@
 * Copyright (C) 2012-2016 mokhin-tech.ru. All rights reserved. 
 *
 * Author is:
-* Denis E Mokhin < denis@mokhin-tech.ru >
+* Denis Mokhin < denis@mokhin-tech.ru >
 * http://mokhin-tech.ru
 *
 * @license GNU GPL, see http://www.gnu.org/licenses/gpl-2.0.html
@@ -31,7 +31,7 @@ abstract class modMyAnniversaryHelper
 {   
    public static function getList(&$params)
    {
-		require_once(JPATH_SITE.DS.'components'.DS.'com_content'.DS.'helpers'.DS.'route.php');
+		require_once(JPATH_SITE.DIRECTORY_SEPARATOR.'components'.DIRECTORY_SEPARATOR.'com_content'.DIRECTORY_SEPARATOR.'helpers'.DIRECTORY_SEPARATOR.'route.php');
    
 		// Get the dbo
 		$db =   JFactory::getDbo();		
