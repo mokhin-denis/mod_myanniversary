@@ -3,7 +3,7 @@
 *
 * MyAnniversary tells you about anniversaries of a current day
 *
-* Copyright (C) 2012-2016 mokhin-tech.ru. All rights reserved. 
+* Copyright (C) 2012-2018 mokhin-tech.ru. All rights reserved. 
 *
 * Author is:
 * Denis Mokhin < denis@mokhin-tech.ru >
