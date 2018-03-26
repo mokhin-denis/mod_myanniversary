@@ -1,5 +1,5 @@
-# MyAnniversary
-MyAnniversary will show you anniversaries if a current day. All you need to do - just prepare your articles for showing and put them in specified category. Module checks current day and shows titles of articles, which became anniversaries at that day.
+# MyAnniversary ![](https://img.shields.io/badge/joomla-3.x-yellow.svg?style=plastic) #
+MyAnniversary will show you anniversaries of a current day. All you need to do - just prepare your articles for showing and put them in specified category. Module checks current day and shows titles of articles, which became anniversaries at that day.
 
 Easy to use and easy to configure.
 
@@ -9,6 +9,8 @@ Easy to use and easy to configure.
 ![ru](http://mokhin-tech.ru/media/mod_languages/images/ru.gif) Russian (ru-RU) by Denis Mokhin
 
 ![tr](http://mokhin-tech.ru/media/mod_languages/images/tr.gif) Turkish (tr-TR) by Ahmet
+
+![fr](http://mokhin-tech.ru/media/mod_languages/images/fr.gif) French (fr-FR) by Daniel
 
 You can improve current translation or add new languages. Please visit [transifex.com](https://www.transifex.com/mokhin/myanniversary/)
 
@@ -21,4 +23,4 @@ You can improve current translation or add new languages. Please visit [transife
 6. Publish module.
 
 ## Vote
-If you found this module useful, please visit my page on [JED](http://extensions.joomla.org/extensions/extension/calendars-a-events/events/myanniversary) and post a reply. Thank you!
+If you found this module useful, please visit my page on [JED](https://extensions.joomla.org/extensions/extension/calendars-a-events/events/myanniversary/) and post a reply. Thank you!

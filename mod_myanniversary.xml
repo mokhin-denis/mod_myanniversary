@@ -7,12 +7,11 @@
 	<copyright>(C) 2012-2018 Denis Mokhin - All rights reserved.</copyright>
 	<license>GNU GPL, see http://www.gnu.org/licenses/gpl-2.0.html</license>
 	<authorEmail>denis@mokhin-tech.ru</authorEmail>
-	<version>0.1.5</version>	
+	<version>0.1.6</version>	
 	<description>MOD_MYANNIVERSARY_DESC</description>
 	
 	<files>
-		<filename module="mod_myanniversary">mod_myanniversary.php</filename>
-		<filename>index.html</filename>
+		<filename module="mod_myanniversary">mod_myanniversary.php</filename>		
 		<filename>README.md</filename>
 		<filename>helper.php</filename>
 		<folder>tmpl</folder>         
@@ -23,7 +22,9 @@
 		<language tag="en-GB">en-GB/en-GB.mod_myanniversary.ini</language>
 		<language tag="en-GB">en-GB/en-GB.mod_myanniversary.sys.ini</language>
 		<language tag="tr-TR">tr-TR/tr-TR.mod_myanniversary.ini</language>
-		<language tag="tr-TR">tr-TR/tr-TR.mod_myanniversary.sys.ini</language>		
+		<language tag="tr-TR">tr-TR/tr-TR.mod_myanniversary.sys.ini</language>	
+        <language tag="fr-FR">fr-FR/fr-FR.mod_myanniversary.ini</language>
+		<language tag="fr-FR">fr-FR/fr-FR.mod_myanniversary.sys.ini</language>		
 	</languages>
 	<config>
 		<fields name="params">
